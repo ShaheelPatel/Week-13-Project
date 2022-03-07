@@ -1,0 +1,178 @@
+user	Date	Directory Accessed
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/candy
+henry	10/13/19	Wonka/Secret_recipes/sweetdrinks
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/candy
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/candy
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/candy
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/sweetdrinks
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/candy
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/candy
+henry	10/13/19	Wonka/Secret_recipes/sweetdrinks
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/candy
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/candy
+henry	10/13/19	Wonka/Secret_recipes/sweetdrinks
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/candy
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/candy
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/sweetdrinks
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/candy
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/candy
+henry	10/13/19	Wonka/Secret_recipes/sweetdrinks
+henry	10/13/19	Wonka/Secret_recipes/sweetdrinks
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/candy
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/candy
+henry	10/13/19	Wonka/Secret_recipes/sweetdrinks
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/candy
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+henry	10/13/19	Wonka/Secret_recipes/chocolate
+
+Slughworths secret email:  sw_secret@gmail.com
+Dear Ruth,
+
+ I dont think that anyone at Wonka is on to our plan, I just heard that Slugworth may offer us a million dollars for the gumdrops recipe.
+
+ Sincerely,
+ Henry
+Dear Slughworth,
+
+   I am anxiously waiting to hear the final offer you will give ruth and I for getting you the secret recipes.  Please hurry, as I think they are on to us.
+
+   Thanks,
+   henry
+Hey Henry,
+
+ Let me know soon what my cut is from Slugworth.
+
+ Thanks,
+ Ruth
+user	Date	Directory Accessed
+henry	10/13/19	recipes/candy/gumdrops
+ruth	10/13/19	recipes/chocolate/bars
+henry	10/13/19	recipes/candy/licorice
+ruth	10/13/19	recipes/candy/gumdrops
+henry	10/13/19	recipes/chocolate/bars
+ruth	10/13/19	recipes/candy/sugarplums
+ruth	10/13/19	recipes/candy/sugarplums
+henry	10/13/19	recipes/candy/gumdrops
+ruth	10/13/19	recipes/chocolate/bars
+henry	10/13/19	recipes/candy/gumdrops
+ruth	10/13/19	recipes/chocolate/bars
+henry	10/13/19	recipes/candy/licorice
+ruth	10/13/19	recipes/chocolate/bars
+henry	10/13/19	recipes/candy/gumdrops
+ruth	10/13/19	recipes/candy/gumdrops
+henry	10/13/19	recipes/candy/licorice
+ruth	10/13/19	recipes/candy/gumdrops
+henry	10/13/19	recipes/candy/gumdrops
+ruth	10/13/19	recipes/candy/sugarplums
+henry	10/13/19	recipes/candy/gumdrops
+ruth	10/13/19	recipes/chocolate/bars
+henry	10/13/19	recipes/candy/sugarplums
+ruth	10/13/19	recipes/candy/gumdrops
+henry	10/13/19	recipes/chocolate/bars
+ruth	10/13/19	recipes/candy/sugarplums
+ruth	10/13/19	recipes/candy/gumdrops
+
+user	Date	Directory Accessed
+henry	10/15/19	recipes/candy/gumdrops
+ruth	10/15/19	recipes/chocolate/bars
+henry	10/15/19	recipes/candy/licorice
+ruth	10/15/19	recipes/candy/gumdrops
+henry	10/15/19	recipes/chocolate/bars
+ruth	10/15/19	recipes/candy/sugarplums
+ruth	10/15/19	recipes/candy/sugarplums
+henry	10/15/19	recipes/candy/gumdrops
+ruth	10/15/19	recipes/chocolate/bars
+henry	10/15/19	recipes/candy/gumdrops
+ruth	10/15/19	recipes/chocolate/bars
+henry	10/15/19	recipes/candy/licorice
+ruth	10/15/19	recipes/chocolate/bars
+henry	10/15/19	recipes/candy/gumdrops
+ruth	10/15/19	recipes/candy/gumdrops
+henry	10/15/19	recipes/candy/licorice
+ruth	10/15/19	recipes/candy/gumdrops
+henry	10/15/19	recipes/candy/gumdrops
+ruth	10/15/19	recipes/candy/sugarplums
+henry	10/15/19	recipes/candy/gumdrops
+ruth	10/15/19	recipes/chocolate/bars
+henry	10/15/19	recipes/candy/sugarplums
+ruth	10/15/19	recipes/candy/gumdrops
+henry	10/15/19	recipes/chocolate/bars
+ruth	10/15/19	recipes/candy/sugarplums
+ruth	10/15/19	recipes/candy/gumdrops
+
+Ingredients
+5 to 6 cups confectioners' sugar
+2 cups sugar
+3/4 cup light corn syrup
+1/2 cup water
+1 to 2 teaspoons anise, lemon or orange extract
+Red, yellow or orange liquid food coloring
+
+
+Fill a 15x10x1-in. pan with confectioners' sugar to a depth of 1/2 in.  make a continuous curved-line indentation in the sugar; set pan aside.
+In a large heavy saucepan, combine the sugar, corn syrup and water. Bring to a boil over medium heat, stirring occasionally. Cover and continue cooking for 3 minutes to dissolve any sugar crystals.
+Uncover and cook on medium-high heat, without stirring, until a candy thermometer reads 300° (hard-crack stage). Remove from the heat; stir in extract and food coloring if desired.
+Carefully pour into a glass measuring cup. Working quickly, pour into prepared indentation in pan. Cover candy with confectioners' sugar. When candy is cool enough to handle, cut into pieces with a scissors. Store in a covered container.
+Ingredients
+
+2 cups white sugar
+1/4 teaspoon 
+salt
+2 cups semisweet chocolate chips
+1 cup finely chopped almonds
+
+Directions
+
+
+In a large heavy bottomed saucepan, combine the butter, sugar and salt. Cook over medium heat, stirring until the butter is melted. Allow to come to a boil, and cook until the mixture becomes a dark amber color, and the temperature has reached 285 degrees F (137 degrees C). Stir occasionally.
+While the toffee is cooking, cover a large baking sheet with aluminum foil or parchment paper.
+As soon as the toffee reaches the proper temperature, pour it out onto the prepared baking sheet. Sprinkle the chocolate over the top, and let it set for a minute or two to soften. Spread the chocolate into a thin even layer once it is melted. Sprinkle the nuts over the chocolate, and press in slightly. Putting a plastic bag over your hand will minimize the mess.
+Place the toffee in the refrigerator to chill until set. Break into pieces, and store in an airtight container.
