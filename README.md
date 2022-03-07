@@ -147,3 +147,4 @@ nano filebeat-config.yml
 nano filebeat-playbook.yml	
 nano metricbeat-config.yml
 nano metricbeat-playbook.yml		
+
